@@ -1,0 +1,57 @@
+body{
+    background-color: RGB(53,53,53);
+    color: whitesmoke;
+    margin-left: 50px;
+    margin-right: 50px;
+}
+
+header{
+    font-family: tangerine;
+    font-size: 72px;
+    margin-bottom: 20px;
+    text-align: center;
+}
+
+h3{
+    font-family: unica one;
+    font-size: 26px;
+    margin-bottom: 1px;
+    text-align: center;
+}
+
+.top1{
+    margin-bottom: 1px;
+}
+.top2{
+    margin-top: 1px;
+}
+
+.manyWatch{
+    display: block;
+    float: none;
+    height: 262px;
+    margin-left: auto;
+    margin-right: auto;
+    width: 540px;
+}
+
+.classic{
+    background-color: #1A1818;
+    border-color: #FDEFA6;
+    border-radius: 13px;
+    border-style: solid;
+    border-width: 2px;
+}
+
+img {
+    float: left;
+    height: 200px;
+    margin: 10px;
+}
+
+h2{
+    font-family: unica one;
+    font-size: 26px;
+    margin-bottom: 16px;
+    margin-top: 16px;
+}
